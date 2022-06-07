@@ -2,7 +2,7 @@
 
 This is a clone project of the popular word guessing game in the Tatar language.
 
-[**Try out the demo!**](https://tatardle.vercel.app/)
+[**Try out the demo!**](http://tatardle.markkazanski.com/)
 
 ## Build and run
 
