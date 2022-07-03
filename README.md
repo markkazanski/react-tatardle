@@ -120,6 +120,7 @@ To enable Plausible Analytics:
 - [Szózat](https://szozat.miklosdanka.com/): Hungarian
 - [So'zzana](https://sozzana.netlify.app/): O'zbek (Lotin)
 - [Tàu Tâi-gí (Taigi Wordle)](https://tau.taigi.info/): Taigi (Taiwanese)
+- [Tatar](https://tatardle.vercel.app/): Tatar (Turkic Language)
 - [Telugu](https://teluguwordle.com): Telugu (South Indian Language)
 - [Tlembung](https://tlembung.vercel.app/): Javanese
 - [Tugma](https://tugma.vercel.app): Hiligaynon (spoken in the Philippines)
